@@ -21,3 +21,24 @@
 
 
 8)The first seven characters form a short version of the commit hash. They can be used to identify and refer to a particular commit without typing the full hash.
+
+9)The four steps are edit, stage, commit, and check. I edit the files, stage changes with git add, save a checkpoint with git commit, and inspect the repository using git status or git log.
+
+
+10)GitHub automatically displays a file named README.md from the repository's main directory on the repository front page. It helps visitors understand the project's purpose and contents.
+
+
+
+11)The gh auth login command authenticates GitHub CLI with the GitHub account. 
+
+
+
+12)After pushing,  the repository page on GitHub gets refreshed to see the uploaded files and the rendered README. This confirms that the local work has been uploaded online.
+
+
+
+13)No, git push uploads local commits to the remote repository. It does not create or modify the commits in my local history.
+
+
+
+14)A private repository exists on GitHub but is visible only to its owner and authorized collaborators. If no online repository exists, the project has not been created on GitHub and cannot be accessed there.
